@@ -3,7 +3,7 @@
     padding: 0;
 }
 nav{
-    background-color: black;
+    background-color:black;
     color: white;
     padding: 20px;
 
@@ -48,7 +48,7 @@ p{
 .products{
     text-align: center;
 }
-h1{
+#one{
     padding: 20px;
     background-color: lightgray;
     display: inline-block;
